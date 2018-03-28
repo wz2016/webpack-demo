@@ -6,16 +6,7 @@
 .vscode/launch.json
 .configcache/
 node_modules
-allure-report/
-allure-results/
-test/coverage
-test/lintreports
-test/report/coverage
-test/functional/report/assets/
-test/functional/report/*.png
-test/functional/report/*.xml
-test/functional/report/*.json
-test/functional/report/RuntimeReporter/
+
 /logs
 /cdbs
 *.log
