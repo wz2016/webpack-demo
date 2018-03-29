@@ -21,6 +21,9 @@ public/js/rac/
 public/css/rac/
 dast_logs/
 
+dist/*bundle.js
+dist/bundle.js
+
 # OS generated files #
 ######################
 .DS_Store*
